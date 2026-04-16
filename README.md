@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=HPC+Specialist;Quantum+Computing+Researcher;Cloud+Networking+Expert;Software+Modernization+Specialist;Welcome+to+my+GitHub+Profile!&fontSize=22" alt="Typing SVG" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 👋 About Me
 
@@ -111,7 +104,7 @@ class HPC_Specialist:
 ### 🔬 [Quantum-HPC Hybrid Computing Platform](https://github.com/TanbirSK/quantum-hpc-platform)
 ![Quantum HPC Architecture](https://via.placeholder.com/400x200/1a1a1a/00D4FF?text=Quantum+HPC+Architecture)
 - **Description**: Research project on integrating quantum computing with HPC systems for hybrid quantum-classical computing
-- **Tech Stack**: Qiskit, Cirq, Kubernetes, Slurm, Python, C++
+- **Tech Stack**: Qiskit, Kubernetes, Slurm, Python, C++
 - **Key Features**: 
   - Quantum-classical algorithm optimization
   - Hybrid job scheduling between quantum and classical resources
@@ -121,7 +114,7 @@ class HPC_Specialist:
 ### 🚀 [Kubernetes-HPC Scheduler Integration](https://github.com/TanbirSK/kubernetes-hpc-scheduler)
 ![HPC Architecture](https://via.placeholder.com/400x200/1a1a1a/00D4FF?text=HPC+Architecture+Diagram)
 - **Description**: Research project on integrating Kubernetes with HPC schedulers for hybrid cloud-HPC environments
-- **Tech Stack**: Kubernetes, Slurm, Go, Python, Docker
+- **Tech Stack**: Kubernetes, Slurm, Python, Docker
 - **Key Features**: 
   - Dynamic resource allocation between cloud and HPC
   - Job scheduling optimization
