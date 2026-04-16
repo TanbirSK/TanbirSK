@@ -122,36 +122,6 @@ class HPC_Specialist:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanbirSK&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanbirSK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📝 Latest Research & Publications
-
-<!-- BLOG-POST-LIST:START -->
-- [Quantum-HPC Hybrid Computing: Bridging Classical and Quantum Systems](https://your-research.com/quantum-hpc)
-- [Converging Cloud Networking Technologies: A Comprehensive Analysis](https://your-research.com/cloud-networking)
-- [Kubernetes-HPC Scheduler Integration: Performance Optimization Strategies](https://your-research.com/k8s-hpc)
-- [Modernizing Legacy HPC Systems: Design Patterns and Best Practices](https://your-research.com/legacy-modernization)
-- [Software Design Patterns for High-Performance Computing Applications](https://your-research.com/hpc-patterns)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tanbir-singh-khaira-92a96a334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/TanbirSK">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:khaira10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 ## 💡 Research Interests & Current Work
 
 - 🔥 **Currently Researching**: Quantum-HPC hybrid computing architectures and optimization
@@ -166,15 +136,7 @@ class HPC_Specialist:
   - Legacy system modernization
   - Software design patterns
   - Kubernetes scheduling algorithms
-- 📫 **How to reach me**: khaira10@gmail.com
-- 🎓 **Education**: Master's in High Performance Computing, Deggendorf Institute of Technology (Graduated)
-- ⚡ **Fun Fact**: I once optimized a legacy Fortran code to run 10x faster using modern parallelization techniques! 🚀
 
-## 🎵 Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?theme=tokyonight&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=00d4ff&bar_color_cover=false" alt="Spotify Playing" />
-</div>
 
 ## 🏗️ Software Design Patterns & Architecture
 
@@ -188,27 +150,3 @@ class HPC_Specialist:
 ### Architecture Principles
 - **Microservices Architecture** for scalable HPC applications
 - **Event-Driven Architecture** for real-time processing
-- **CQRS (Command Query Responsibility Segregation)** for data-intensive systems
-- **Hexagonal Architecture** for legacy system modernization
-
-## 📊 WakaTime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TanbirSK&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanbirSK&style=for-the-badge&color=00d4ff" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐ From [Your Name]</i>
-</div>
