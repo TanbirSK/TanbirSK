@@ -66,20 +66,6 @@ class HPC_Specialist:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanbirSK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanbirSK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanbirSK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🎯 Featured Projects & Research
 
 ### 🔬 [Quantum-HPC Hybrid Computing Platform](https://github.com/TanbirSK/quantum-hpc-platform)
