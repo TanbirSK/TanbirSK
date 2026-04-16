@@ -10,7 +10,6 @@
 ```python
 class HPC_Specialist:
     def __init__(self):
-        self.name = "Your Name"
         self.education = "Master's in High Performance Computing"
         self.expertise = [
             "High Performance Computing (HPC)",
