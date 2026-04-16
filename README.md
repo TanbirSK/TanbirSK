@@ -45,44 +45,26 @@ class HPC_Specialist:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### HPC & Parallel Computing
-![OpenMP](https://img.shields.io/badge/OpenMP-00599C?style=for-the-badge&logo=openmp&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-000000?style=for-the-badge&logo=mpi&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCL](https://img.shields.io/badge/OpenCL-ED8B00?style=for-the-badge&logo=opencl&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-4A90E2?style=for-the-badge&logo=slurm&logoColor=white)
 
 ### Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-FF6B6B?style=for-the-badge&logo=pennylane&logoColor=white)
-![Q#](https://img.shields.io/badge/Q%23-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Cloud & Containerization
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### HPC Schedulers & Workload Managers
 ![Slurm](https://img.shields.io/badge/Slurm-4A90E2?style=for-the-badge&logo=slurm&logoColor=white)
-![PBS](https://img.shields.io/badge/PBS-FF6B6B?style=for-the-badge&logo=pbs&logoColor=white)
-![SGE](https://img.shields.io/badge/SGE-FFD93D?style=for-the-badge&logo=sge&logoColor=black)
-![LSF](https://img.shields.io/badge/LSF-00A86B?style=for-the-badge&logo=lsf&logoColor=white)
 
 ### Networking & Infrastructure
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ## 📊 GitHub Stats
 
